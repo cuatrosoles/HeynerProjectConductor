@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "327981686595",
+    "firebase_url": "https://navidos-7e91a-default-rtdb.firebaseio.com",
+    "project_id": "navidos-7e91a",
+    "storage_bucket": "navidos-7e91a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:327981686595:android:5beba8959b6bc52d1f19f6",
+        "android_client_info": {
+          "package_name": "com.juanprogramador.naviconductor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "327981686595-7s9agsjgt64rl583o2rd182lso252v4h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBc0YXeEF4FYDUq1es6ip-OdOCaK2-GtHo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "327981686595-7s9agsjgt64rl583o2rd182lso252v4h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:327981686595:android:25e16f1c8b0d58521f19f6",
+        "android_client_info": {
+          "package_name": "com.juanprogramador.navipasajero"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "327981686595-obmtu09k3n99dfm070uqa4p14f0ppgau.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.juanprogramador.navipasajero",
+            "certificate_hash": "ce7cf01af073d14b5e1802fff30da72b8e740663"
+          }
+        },
+        {
+          "client_id": "327981686595-7s9agsjgt64rl583o2rd182lso252v4h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBc0YXeEF4FYDUq1es6ip-OdOCaK2-GtHo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "327981686595-7s9agsjgt64rl583o2rd182lso252v4h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

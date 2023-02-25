@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "382063189795",
+    "firebase_url": "https://navi-app-costarica-default-rtdb.firebaseio.com",
+    "project_id": "navi-app-costarica",
+    "storage_bucket": "navi-app-costarica.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:382063189795:android:c1d1952a962c322386f696",
+        "android_client_info": {
+          "package_name": "com.juanprogramador.navi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "382063189795-2cs7pnesngs15qp1656085nnm6ak8p5b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZGYO3Clq5FEdrjh8xZNkOjgA3RULZimk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "382063189795-2cs7pnesngs15qp1656085nnm6ak8p5b.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "382063189795-c8jpbkjrpoafhgburs926uut3spe7tqt.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.juanprogramador.naviconductor"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:382063189795:android:5b4f56d9d38b65ad86f696",
+        "android_client_info": {
+          "package_name": "com.juanprogramador.naviconductor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "382063189795-2cs7pnesngs15qp1656085nnm6ak8p5b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZGYO3Clq5FEdrjh8xZNkOjgA3RULZimk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "382063189795-2cs7pnesngs15qp1656085nnm6ak8p5b.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "382063189795-c8jpbkjrpoafhgburs926uut3spe7tqt.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.juanprogramador.naviconductor"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
